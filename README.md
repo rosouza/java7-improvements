@@ -1,6 +1,6 @@
 New Java 7 Features and Improvements
 
-Some examples about new features of JAVA SE 7 as listed bellow:
+Simple examples about new features of JAVA SE 7 as listed below:
 
 - Automatic Resource Management
 - Diamond Operator
