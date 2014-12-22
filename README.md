@@ -4,7 +4,8 @@ Simple examples about new features of JAVA SE 7 as listed below:
 
 - Automatic Resource Management
 - Diamond Operator
-- New File IO
+- New File IO API
+- NIO WatchService
 - JDBC 4
 - Multi-Catch
 - Strings Switch Statements
