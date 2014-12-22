@@ -1,4 +1,4 @@
-New Java 7 Features and Improvements
+Java SE 7 New Features and Improvements
 
 Simple examples about new features of JAVA SE 7 as listed below:
 
