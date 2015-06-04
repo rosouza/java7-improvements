@@ -10,4 +10,5 @@ Simple examples about new features of JAVA SE 7 as listed below:
 - Multi-Catch
 - Strings Switch Statements
 - Fork Join Framework
+- ThreadLocalRandom Class
 - Underscore Numeric Literals
